@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naveen Kumar Singh
 - 👀 I’m interested in Solving the real live problems 
-- 🌱 I’m currently learning C++, Java, HTML, CSS, javascript, SQL
-- 💞️ I’m looking to collaborate on anything that leads to solving a problem.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Analyst projects that leads to solving a problem.
 - 📫 To reach me in real time check my Insta @tgnks
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I scored runs when needed the most.
