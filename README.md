@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analyst projects that leads to solving a problem.
 - 📫 To reach me in real time check my Insta @tgnks
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... Laltu Bhaiya
 - ⚡ Fun fact: I scored runs when needed the most.
 
 <!---
