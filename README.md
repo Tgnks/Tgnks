@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Naveen Kumar Singh
 - 👀 I’m interested in Solving the real live problems & Please look into my Resume repository.
+- Data Engineer with 3+ years of experience in building large-scale data pipelines, ETL processes, and data warehouse solutions. Utilized technologies like Python, SQL, Spark, and Databricks to develop multi-terabyte scalable big data solutions for Banking and financial services companies.
 - 🌱 I’m currently learning TensorFlow
 - 💞️ I’m looking to collaborate on Data Engineer projects that leads to solving a problem.
 - 📫 To reach me in real time check my Insta @naveen61_
