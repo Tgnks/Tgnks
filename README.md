@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naveen Kumar Singh
-- 👀 I’m interested in Solving the real live problems 
+- 👀 I’m interested in Solving the real live problems & Please look into my Resume repository.
 - 🌱 I’m currently learning TensorFlow
 - 💞️ I’m looking to collaborate on Data Engineer projects that leads to solving a problem.
 - 📫 To reach me in real time check my Insta @naveen61_
